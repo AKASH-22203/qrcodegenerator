@@ -24,9 +24,6 @@ QR_code copy/
 ├── static/
 │   ├── css/style.css   # Styling
 │   └── js/scanner.js   # Webcam + fetch logic
-└── QR_code copy/       # Original files preserved!
-    ├── qr.py
-    └── qr_scanner.py
 ├── venv/               # Python venv (activated)
 └── README.md          # This file!
 ```
@@ -45,7 +42,6 @@ python app.py
 
 **Open:** http://localhost:5000
 
-![Screenshot](https://via.placeholder.com/800x400/007bff/ffffff?text=QR+Web+App)
 
 ## 🎮 Usage
 
